@@ -1,3 +1,5 @@
+#Credits to https://how2electronics.com/ph-meter-using-ph-sensor-arduino-oled/
+
 #include "LiquidCrystal.h"
 LiquidCrystal lcd(8, 9, 4, 5, 6, 7);
 //rs, enable pin, D4, D5,D6 ,D7 ,R/W ,VSS ,Vcc
