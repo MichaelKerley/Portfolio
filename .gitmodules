@@ -1,0 +1,3 @@
+[submodule "catkin_ws"]
+	path = catkin_ws
+	url = git@github.com:MichaelKerley/catkin_ws.git
